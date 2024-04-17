@@ -30,7 +30,6 @@ def emoji_converter(message):
         "excited": "😐",
         "happy": "😊",
         "sad": "😔",
-        "shit": "💩"
         }
         
         for shape, emoji in faces.items():
